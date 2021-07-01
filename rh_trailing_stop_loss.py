@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # This isn't pretty, and needs a ton of help.
 # There is currently no error checking for probs.
 # Will update as I have time.
